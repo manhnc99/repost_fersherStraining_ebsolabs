@@ -1,7 +1,0 @@
-package ProgramTestStategyPattern_Bai3_oopExcercise;
-
-public abstract class WeaponBehavior {
-	public void useWeapon() {
-		System.out.println("Xử dụng vũ khí");
-	}
-}
