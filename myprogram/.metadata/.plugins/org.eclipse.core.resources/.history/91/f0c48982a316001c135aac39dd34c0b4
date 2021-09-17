@@ -1,0 +1,8 @@
+package ProgramTestStategyPattern_Bai3_oopExcercise;
+
+public class Main {
+	public static void main(String[] args) {
+		Character k = new King();
+		k.setWeapon(new AxeBehavior());
+	}
+}

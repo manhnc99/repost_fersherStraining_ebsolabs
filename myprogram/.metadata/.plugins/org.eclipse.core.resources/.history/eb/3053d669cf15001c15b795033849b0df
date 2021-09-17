@@ -1,0 +1,6 @@
+package ProgramTestStategyPattern_Bai3_oopExcercise;
+
+public interface FightBehavior {
+	public void fight();
+	
+}

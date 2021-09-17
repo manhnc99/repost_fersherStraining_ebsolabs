@@ -1,0 +1,13 @@
+package ProgramTestStategyPattern_Bai3_oopExcercise;
+
+public class King extends Character{
+
+	@Override
+	public void fight() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	
+	
+}

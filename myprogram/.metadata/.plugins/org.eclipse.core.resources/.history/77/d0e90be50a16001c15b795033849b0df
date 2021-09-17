@@ -1,0 +1,16 @@
+package ProgramTestStategyPattern_Bai3_oopExcercise;
+
+public class Main {
+	public static void main(String[] args) {
+		Character k = new King();
+		KnightBehavior knight = new WeaponBehavior() {
+			
+			@Override
+			public void useWeaponBehavior() {
+				// TODO Auto-generated method stub
+				System.out.println("dcaiuecec");
+			}
+		};
+		k.setWeapon(kinght);
+	}
+}
